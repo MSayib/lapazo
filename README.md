@@ -46,6 +46,15 @@ Ini memungkinkan dikarenakan pada bagian Task Model menggunakan [Mutators](https
 
 *Notice: Penggunaan Mutators pada Laravel 9.x berbeda!*
 
+ToDo:
+
+- [x] Konsep Implementasi 
+ - [ ] Buat CRUD
+ - [ ] Pagination
+ - [ ] Search
+ - [ ] Filter Search
+
+
 This project was made only because im learning how to solve Multi-Timezone Problems with UNIX TIME.
 
 [@ibb.ac](https://instagram.com/ibb.ac)
